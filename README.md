@@ -23,7 +23,7 @@ open terminal and navigate to assignment and run
   npm i 
 ```
 
-After that you have to run another command for start localhost server
+After that you have to run another command for starting localhost server
 
 ```bash
   node index.js
