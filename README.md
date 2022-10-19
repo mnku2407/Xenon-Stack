@@ -37,3 +37,7 @@ After that you have to run another command for start localhost server
 
 **Server:** Node, Express, mongodb etc
 
+
+screenshots are attached :- 
+SignUp page:- 
+![image](https://user-images.githubusercontent.com/93602234/196776242-2b32ccb0-fa2a-4c6b-a319-04e4f1cc0e50.png)
