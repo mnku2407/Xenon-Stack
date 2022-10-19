@@ -46,3 +46,10 @@ SignIN page:-
 SignUP Page:-
 ![image](https://user-images.githubusercontent.com/93602234/196777265-f4c1f59b-8096-4e93-9eba-6946ad782fe2.png)
 
+HomePage:-
+![image](https://user-images.githubusercontent.com/93602234/196778106-3c4a9460-70d8-445d-b93a-55bc50f6724d.png)
+![image](https://user-images.githubusercontent.com/93602234/196778165-67621476-6d64-4c74-a209-f877272d2b52.png)
+![image](https://user-images.githubusercontent.com/93602234/196778230-d44ff35c-82cb-41d1-95ab-783ce0ff2507.png)
+
+contact Us Page:-
+![image](https://user-images.githubusercontent.com/93602234/196778329-8efcf036-c5e2-4a91-b2fc-eb1e76704328.png)
