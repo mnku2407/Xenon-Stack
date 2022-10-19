@@ -39,5 +39,10 @@ After that you have to run another command for start localhost server
 
 
 screenshots are attached :- 
-SignUp page:- 
+
+SignIN page:- 
 ![image](https://user-images.githubusercontent.com/93602234/196776242-2b32ccb0-fa2a-4c6b-a319-04e4f1cc0e50.png)
+
+SignUP Page:-
+![image](https://user-images.githubusercontent.com/93602234/196777265-f4c1f59b-8096-4e93-9eba-6946ad782fe2.png)
+
