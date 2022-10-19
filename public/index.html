@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment</title>
+
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+
+  <body>
+   
+    <div class="container">
+      <div class="signin-signup">
+          <form action="/sign_up" method="POST" class="sign-in-form">
+              <h2 class="title">Create Account</h2>
+              <div class="input-field">
+                  <i class="fas fa-user"></i>
+                  <input type="text" name="username" placeholder="UserName" required />
+
+              </div>
+              <div class="input-field">
+                  <i class="fas fa-lock"></i>
+                  <input type="password" name="password" placeholder="Password" required />
+
+              </div>
+      <input type="submit" value="Signup" class="btn" />
+      
+             
+          </form>
+          <form action="/login" method="POST" class="sign-up-form">
+              <h2 class="title">Login </h2>
+              <div class="input-field">
+                  <i class="fas fa-user"></i>
+                  <input type="text" name="username" placeholder="UserName" required />
+              </div>
+          
+              <div class="input-field">
+                  <i class="fas fa-lock"></i>
+                  <input type="password" name="password" placeholder="Password" required />
+
+              </div>
+              <input type="submit" value="Login" class="btn">
+              
+          </form>
+      </div>
+      <div class="panels-container">
+          <div class="panel left-panel">
+              <div class="content">
+                  <h3>New Here?</h3>
+                  <p>Signup to proceed further</p>
+                  <button class="btn" id="sign-in-btn">Signup</button>
+              </div>
+              <img src="signin.svg" alt="" class="image">
+          </div>
+          <div class="panel right-panel">
+              <div class="content">
+                  <h3>Already have an account?</h3>
+                  <p>Login to proceed further</p>
+                  <button class="btn" id="sign-up-btn">Login</button>
+              </div>
+              <img src="signup.svg" alt="" class="image">
+          </div>
+      </div>
+  </div>
+  
+</body>
+<script src="flow.js"></script>
+</html>
